@@ -8,7 +8,6 @@ public class MainRun
 	{
 		// Menu 객체를 통해 아까 만든 메뉴 실행 시키기
 		Menu mn = new Menu();
-		mn.main_menu();
-		
+		mn.main_menu();	
 	}
 }
